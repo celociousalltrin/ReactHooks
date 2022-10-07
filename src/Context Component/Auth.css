@@ -5,3 +5,11 @@
 #dark {
     background-color: brown;
 }
+
+#light .main > h1 {
+    color: white;
+}
+
+#dark .main > h1 {
+    color: yellow;
+}
