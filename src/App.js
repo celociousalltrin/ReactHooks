@@ -8,7 +8,7 @@ function App() {
   return (
     <div>
       <UserContextProvider>
-        <EffectIndex />
+ <Header />
       </UserContextProvider>
     </div>
   );
